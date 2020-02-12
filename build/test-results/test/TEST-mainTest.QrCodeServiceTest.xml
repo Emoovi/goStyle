@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mainTest.QrCodeServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-12T11:26:59" hostname="MSI" time="0.057">
+  <properties/>
+  <testcase name="deleteByUID" classname="mainTest.QrCodeServiceTest" time="0.047"/>
+  <testcase name="createQrCodeTest" classname="mainTest.QrCodeServiceTest" time="0.001"/>
+  <testcase name="getByUIDQrCodeTest" classname="mainTest.QrCodeServiceTest" time="0.003"/>
+  <testcase name="updateByUIDTest" classname="mainTest.QrCodeServiceTest" time="0.002"/>
+  <testcase name="getAllQrCodeTest" classname="mainTest.QrCodeServiceTest" time="0.003"/>
+  <system-out><![CDATA[On test le updateByUID()
+On test le create()
+On test le getByUID()
+On test le updateByUID()
+On test le getAll()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

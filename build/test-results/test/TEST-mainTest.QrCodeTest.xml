@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mainTest.QrCodeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-12T11:26:59" hostname="MSI" time="0.049">
+  <properties/>
+  <testcase name="QrCodeGet" classname="mainTest.QrCodeTest" time="0.048"/>
+  <testcase name="QrCodeSet" classname="mainTest.QrCodeTest" time="0.0"/>
+  <testcase name="QrCodeControllerTest" classname="mainTest.QrCodeTest" time="0.0"/>
+  <system-out><![CDATA[On test les getter
+On test les setter
+On test les constructeurs
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
