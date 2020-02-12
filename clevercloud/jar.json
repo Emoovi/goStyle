@@ -1,9 +1,9 @@
 {
   "build": {
     "type": "gradle",
-    "goal": "build"
+    "goal": "assemble"
   },
   "deploy": {
-    "jarName": "../build/libs/demo-0.0.1-SNAPSHOT.jar"
+    "jarName": "./build/libs/demo-0.0.1-SNAPSHOT.jar"
   }
 }
